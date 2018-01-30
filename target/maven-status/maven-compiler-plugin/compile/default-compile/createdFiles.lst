@@ -1,0 +1,4 @@
+test/SampleCamelRouter.class
+test/Application$AppContainerCustomizer.class
+test/Application.class
+test/SwaggerConfig.class
